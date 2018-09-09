@@ -1,6 +1,6 @@
 <?php
 
 require 'rb.php';
-R::setup('mysql:host=localhost;dbname=url-ms3', 'root', '');
+R::setup('mysql:host=localhost;dbname=url-ms2', 'root', '');
 
 ?>
